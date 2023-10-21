@@ -8,7 +8,7 @@
 
 ## MERN Stack Admin Dashboard Project
 
-Welcome to my MERN Stack Admin Dashboard Project! This project showcases the development of a comprehensive admin dashboard using the MERN stack (MongoDB, Express.js, React, and Node.js). This dashboard is designed to provide a feature-rich interface for a wide range of applications, including e-commerce platforms, content management systems, and data analysis tools.
+Welcome to my MERN Stack Admin Dashboard Project! This project showcases the development of a comprehensive admin dashboard using the MERN stack this means MongoDB, Express.js, React, and Node.js. This dashboard is designed to provide a feature-rich interface for a wide range of applications, including e-commerce platforms, content management systems, and data analysis tools.
 
 This project emphasizes the practical use of key frontend and backend technologies, including Material UI, Material UI Data Grid, Nivo Charts, Redux Toolkit, Redux Toolkit Query, Node.js, Express.js, Mongoose, and MongoDB. We will also delve into the intricacies of data modeling with Entity Relationship Diagrams and aggregate calls in MongoDB.
 

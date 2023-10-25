@@ -59,3 +59,4 @@ To start working on this project, make sure I have the necessary prerequisites i
 Once the project is complete, I should consider deploying it to a hosting service of my choice. This will allow me to share my work with a broader audience and further demonstrate my web development skills. Popular hosting platforms include Heroku, Vercel, and Netlify for the frontend, and services like MongoDB Atlas for the database.
 
 ## battling a bug in the sidebar and currently swamped with delierables from work, will put great updates later in the week.
+## still cant code

@@ -61,3 +61,5 @@ Once the project is complete, I should consider deploying it to a hosting servic
 ## battling a bug in the sidebar and currently swamped with delierables from work, will put great updates later in the week.
 ## still cant code
 ## I will make time for this project this weekend
+
+## missed yesterday, on the bright side my schedule is clearing up
